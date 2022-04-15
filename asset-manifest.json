@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CogniFirstAssignment/static/css/main.e6c13ad2.css",
+    "main.js": "/CogniFirstAssignment/static/js/main.c559dadd.js",
+    "static/js/787.69ddda07.chunk.js": "/CogniFirstAssignment/static/js/787.69ddda07.chunk.js",
+    "index.html": "/CogniFirstAssignment/index.html",
+    "main.e6c13ad2.css.map": "/CogniFirstAssignment/static/css/main.e6c13ad2.css.map",
+    "main.c559dadd.js.map": "/CogniFirstAssignment/static/js/main.c559dadd.js.map",
+    "787.69ddda07.chunk.js.map": "/CogniFirstAssignment/static/js/787.69ddda07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c559dadd.js"
+  ]
+}
